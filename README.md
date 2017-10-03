@@ -2,8 +2,6 @@
 
 # TOZ backend
 
-*Note: This project is frozen. If you'd like to continue its development I encourage you to do fork.*
-
 ## Prerequisites
 
 * [Java 1.8 (Oracle)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
